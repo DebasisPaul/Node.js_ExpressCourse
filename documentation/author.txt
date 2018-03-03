@@ -1,0 +1,24 @@
+
+Organisation: Bangladesh Institue Of Technology & Management System (BITM)
+Project#3: PHP OOP Login/Register System v5.2017
+
+Team Leader
+----------------------
+Mr. Debasis Paul
+Id 168024 
+batch: 55
+cell 01764199207
+
+Team Member
+-------------------
+Mr. Fazle Rabby 
+ID 168033 
+batch: 55
+cell 01855411141
+
+Team Member
+---------------------------
+Mr. Ali Ahmed Shaley 
+ID 163399 
+batch: 55
+Cell 01629307999 
